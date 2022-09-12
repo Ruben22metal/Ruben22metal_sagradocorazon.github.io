@@ -1,0 +1,50 @@
+* {
+	margin: 0 auto;
+}
+
+header {
+	background-color:#951609;
+}
+
+h1 {
+	font-family: Fantasy;
+	text-align: left;
+	font-size: 60px;
+	padding: 0em;
+	display: inline;
+	color: white;
+}
+
+nav {
+	font-size: 21px
+}
+
+body {
+	font-style: italic;
+	line-height: 1,4;
+}
+
+}
+
+main {
+	font-size: 30px;
+	color: yellow;
+}
+
+a {
+	text-decoration: none;
+}
+
+.corazon {
+	width: 250px;
+	width: 60%;
+}
+
+.corazoncomedor {
+	width: 30%;
+}
+
+.corazoncomunidad {	
+	width: 30%;
+}
+
